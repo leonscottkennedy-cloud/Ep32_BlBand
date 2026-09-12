@@ -1,0 +1,11 @@
+# ESP-IDF build output
+build/
+sdkconfig.old
+dependencies.lock
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
